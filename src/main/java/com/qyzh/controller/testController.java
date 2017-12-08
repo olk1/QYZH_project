@@ -31,5 +31,9 @@ public class testController {
             }
             System.out.println("");
         }
+        //写一个冒泡排序
+        for(int i=0; i<10 ; i++) {
+            
+        }
     }
 }
